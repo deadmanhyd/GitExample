@@ -5,7 +5,6 @@
 <body>
 	<h1>Hello World!</h1>
 	<h2>This is the first example on Jenkins</h2>
-	<h2>Th
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
